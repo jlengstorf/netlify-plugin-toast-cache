@@ -1,0 +1,9 @@
+{
+  "name": "netlify-plugin-toast-cache",
+  "description": "Netlify build plugin to store compiled assets between builds.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Jason Lengstorf <jason@lengstorf.com> (https://jason.af)",
+  "repository": "https://github.com/jlengstorf/netlify-plugin-toast-cache",
+  "license": "MIT"
+}
