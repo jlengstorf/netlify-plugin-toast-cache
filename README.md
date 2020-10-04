@@ -4,6 +4,12 @@ Add this plugin to your Toast site for even faster builds!
 
 ## Usage
 
+Install the plugin in your site:
+
+```sh
+npm i netlify-plugin-toast-cache
+```
+
 Add the following lines to your `netlify.toml` file:
 
 ```toml
