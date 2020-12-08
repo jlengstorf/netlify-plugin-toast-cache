@@ -1,6 +1,7 @@
 const path = require('path');
 
 const getCacheDirs = (constants) => [
+  path.join(constants.PUBLISH_DIR, '..', '.config/toast-nodejs',
   path.normalize(`${constants.PUBLISH_DIR}/web_modules`),
 ];
 
